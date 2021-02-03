@@ -25,10 +25,11 @@ Here are few examples of classes I made
 https://github.com/notherey/showoff/tree/main/classes
 https://github.com/notherey/showoff/tree/main/classes/LODs
 
-|  Created by Michał "Cudi" Kuraś  |
-| ------------ |
-
 ## Models
 Throughout the year, when we needed any 3d model, I could always make a few
 
 https://github.com/notherey/showoff/tree/main/3d
+
+#--
+|  Created by Michał "Cudi" Kuraś  |
+| ------------ |
