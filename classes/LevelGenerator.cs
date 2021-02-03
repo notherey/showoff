@@ -1,11 +1,26 @@
-﻿using System.Collections.Generic;
+/*
+Level generator
+Currently:
+- Creates map borders
+- Creates rooms and their borders
+- Fills rooms
+
+Todo:
+- Create corridors
+- Analize markers and replace with 3d models - walls, floor and ceiling, doorway etc
+- Set player spawn position
+- Set mobs spawn positions
+- Add doors, chests, pickups etc
+*/
+
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
 namespace Generator
 {
 
-    public class LevelGenerator : MonoBehaviour
+    sealed public class LevelGenerator : MonoBehaviour
     {
         //serialized settings, changeable only before generation
         [Header("Settings")]
