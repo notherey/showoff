@@ -1,8 +1,8 @@
 # Showoff
 A small collection of things I want to show my future employer
 
-| [:video_game: Games](#Games) | [:fountain_pen: Code](#Code) |
-| --------------- | --------------- |
+| [:video_game: Games](#Games) | [:fountain_pen: Code](#Code) | [:house: Models](#Models) |
+| --------------- | --------------- | --------------- |
 
 ## Games
 Within a few months me and my associate created three android games, that are currently available on Google Play
@@ -27,3 +27,8 @@ https://github.com/notherey/showoff/tree/main/classes/LODs
 
 |  Created by Michał "Cudi" Kuraś  |
 | ------------ |
+
+## Models
+Throughout the year, when we needed any 3d model, I could always make a few
+
+https://github.com/notherey/showoff/tree/main/3d
