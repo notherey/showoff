@@ -11,6 +11,8 @@ Todo:
 - Set player spawn position
 - Set mobs spawn positions
 - Add doors, chests, pickups etc
+
+current result: https://github.com/notherey/showoff/blob/main/classes/levelGenerator%20result.png
 */
 
 using System.Collections.Generic;
