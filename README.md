@@ -23,6 +23,7 @@ Within a few months me and my associate created three android games, that are cu
 Here are few examples of classes I made
 
 https://github.com/notherey/showoff/tree/main/classes
+https://github.com/notherey/showoff/tree/main/classes/LODs
 
 |  Created by Michał "Cudi" Kuraś  |
 | ------------ |
