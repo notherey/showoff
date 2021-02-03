@@ -30,6 +30,6 @@ Throughout the year, when we needed any 3d model, I could always make a few
 
 https://github.com/notherey/showoff/tree/main/3d
 
-#--
+# Me
 |  Created by Michał "Cudi" Kuraś  |
 | ------------ |
