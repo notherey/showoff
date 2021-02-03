@@ -1,8 +1,8 @@
 # Showoff
 A small collection of things I want to show my future employer
 
-| [:video_game: Games](#Games) |
-| --------------- |
+| [:video_game: Games](#Games) | | [:fountain_pen: Code](#Code) |
+| --------------- | | --------------- |
 
 ## Games
 Within a few months me and my associate created three android games, that are currently available on Google Play
@@ -18,3 +18,8 @@ Within a few months me and my associate created three android games, that are cu
 [![alt text](https://github.com/notherey/showoff/blob/main/images/balls.png "That's Ball About")](https://play.google.com/store/apps/details?id=com.AmbientCore.ThatsBallAbout)
 
 [![alt text](https://github.com/notherey/showoff/blob/main/images/donuts.png "DounaDash")](https://play.google.com/store/apps/details?id=com.AmbientCore.DounaDash)
+
+## Code
+Here are few examples of classes I made
+
+https://github.com/notherey/showoff/tree/main/classes
