@@ -1,8 +1,8 @@
 # Showoff
 A small collection of things I want to show my future employer
 
-| [:video_game: Games](#Games) | | [:fountain_pen: Code](#Code) |
-| --------------- | | --------------- |
+| [:video_game: Games](#Games) | [:fountain_pen: Code](#Code) |
+| --------------- | --------------- |
 
 ## Games
 Within a few months me and my associate created three android games, that are currently available on Google Play
