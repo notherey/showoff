@@ -2,7 +2,7 @@
 A small collection of things I want to show my future employer
 
 | [:video_game: Games](#Games) |
-| --------------- | --------------- | --------------- |
+| --------------- |
 
 ## Games
 Within a few months me and my associate created three android games, that are currently available on Google Play
